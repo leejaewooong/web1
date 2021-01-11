@@ -9,3 +9,16 @@
 https://unsplash.com/ 저작권없는 무료 이미지 사이트
 
 리스트 <li> / unodered list <ul> / ordered list <ol>
+
+제목 <title>  / 한글을 인식하게 해줌.<meta charset="utf-8">
+
+<html> > <head> > <body>
+
+태그의 왕 
+anchor <a> 하이퍼링크
+
+실시간 댓글
+https://disqus.com/
+
+실시간 채팅 
+https://dashboard.tawk.to/?lang=en#/chat
